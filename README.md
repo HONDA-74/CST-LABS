@@ -88,9 +88,17 @@ This lab focuses on **string processing, validation using RegExp, and built-in J
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run the Labs
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HONDA-74/CST-LABS.git
+1. Open any `index.html` file in your browser.
+2. Uncomment the required `<script>` file inside the `<head>` section.
+3. Refresh the page to run the selected task.
+
+Example:
+```html
+<!-- <script src="task1.js"></script> -->
+<script src="task2.js"></script>
+```
+
+---
 
