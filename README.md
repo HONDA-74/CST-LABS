@@ -1,2 +1,2 @@
 # CST-LABS
--Lab
+## Lab 3
