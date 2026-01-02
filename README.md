@@ -109,6 +109,19 @@ This lab focuses on **arrays, objects, sorting, and Browser Object Model (BOM)**
 
 ---
 
+## 🔍 Covered Concepts
+
+- Arrays & user input
+- Sorting (ascending & descending)
+- Objects & dynamic property access
+- Date object
+- Browser Object Model (BOM)
+- `window.open`, `moveTo`, `resizeTo`
+- `setInterval` vs `setTimeout`
+- Window scrolling using `scrollBy`
+
+---
+
 ## ▶️ How to Run the Labs
 
 1. Open any `index.html` file in your browser.
