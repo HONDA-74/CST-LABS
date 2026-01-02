@@ -95,6 +95,19 @@ This lab focuses on **string processing, validation using RegExp, and built-in J
 This lab focuses on **arrays, objects, sorting, and Browser Object Model (BOM)** concepts, including window control, timers, and scrolling.
 
 ---
+## 🧪 Tasks
+
+| File | Description |
+|----|------------|
+| index1.js | Take array input from the user until `"stop"`, then sort ascending & descending |
+| index2.js | Display full address from object properties with the current date |
+| index3.js | Display object values dynamically based on a passed key |
+| perent.js | Control child window movement using `setInterval` & `setTimeout` |
+| perent.html | Buttons to open, move, stop, and scroll child windows |
+| child.html | Child window content |
+| scroll.html | Scrollable content used for BOM scrolling tasks |
+
+---
 
 ## ▶️ How to Run the Labs
 
