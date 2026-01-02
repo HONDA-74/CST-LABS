@@ -88,6 +88,14 @@ This lab focuses on **string processing, validation using RegExp, and built-in J
 
 ---
 
+## 📙 Lab 5 – Arrays, Objects & Browser Object Model (BOM)
+
+**Location:** `Lab5/`
+
+This lab focuses on **arrays, objects, sorting, and Browser Object Model (BOM)** concepts, including window control, timers, and scrolling.
+
+---
+
 ## ▶️ How to Run the Labs
 
 1. Open any `index.html` file in your browser.
