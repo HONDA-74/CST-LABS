@@ -34,8 +34,19 @@ CST-LABS/
 │ ├── index5.js
 │ └── script.js
 │
+├── Lab5/
+│ ├── index1.html
+│ ├── index1.js
+│ ├── index2.html
+│ ├── index2.js
+│ ├── index3.html
+│ ├── index3.js
+│ ├── perent.html
+│ ├── perent.js
+│ ├── child.html
+│ └── scroll.html
+│
 └── README.md
-
 ```
 
 ---
