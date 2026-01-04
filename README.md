@@ -47,10 +47,18 @@ CST-LABS/
 │ └── scroll.html
 │
 ├── Lab6/
-│ ├── index1.html
-│ ├── index1.js
-│ ├── index2.html
-│ ├── index2.js
+│   ├── index1.html       # Typing Window Task
+│   ├── index1.js
+│   ├── index2.html       # Registration Form
+│   ├── welcome.html      # Welcome page (Query String Task)
+│   ├── welcome.js
+│   ├── messageWin.html   # Child window for typing task
+│   ├── slideshow.html    # Image Slider Task
+│   ├── slideshow.js
+│   ├── loading.html      # Animated Marbles Task
+│   ├── loading.js
+│   ├── game.html         # Memory Game Task
+│   └── game.js
 │
 ├── Lab7/
 │ ├── index1.html
