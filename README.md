@@ -46,6 +46,18 @@ CST-LABS/
 │ ├── child.html
 │ └── scroll.html
 │
+├── Lab6/
+│ ├── index1.html
+│ ├── index1.js
+│ ├── index2.html
+│ ├── index2.js
+│
+├── Lab7/
+│ ├── index1.html
+│ ├── index1.js
+│ ├── index2.html
+│ ├── index2.js
+│
 └── README.md
 ```
 
@@ -132,7 +144,10 @@ This lab focuses on **arrays, objects, sorting, and Browser Object Model (BOM)**
 - Window scrolling using `scrollBy`
 
 ---
-
+## Lab6
+---
+## lab7
+---
 ## ▶️ How to Run the Labs
 
 1. Open any `index.html` file in your browser.
