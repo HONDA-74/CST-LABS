@@ -152,7 +152,39 @@ This lab focuses on **arrays, objects, sorting, and Browser Object Model (BOM)**
 - Window scrolling using `scrollBy`
 
 ---
-## Lab6
+## 📕 Lab 6 – DOM, BOM & Event Handling
+
+**Location:** `Lab6/`
+
+This lab covers advanced **DOM Manipulation, BOM interaction, and complex Event handling**.
+
+### 🧪 Tasks
+
+| File | Description |
+|----|------------|
+| `index1.js` | **Typewriter Effect:** Opens a child window and types text character by character, then closes it. |
+| `index2.html` | **Registration Form:** A form that sends data to `welcome.html` using the `GET` method. |
+| `welcome.js` | **Query String Parsing:** Extracts user data from URL and displays it; includes browser detection. |
+| `slideshow.js` | **Image Gallery:** Slideshow with Play, Stop, Next, and Previous controls using timers. |
+| `loading.js` | **Animated Marbles:** Simulates a loading animation with `setInterval`, stops on hover. |
+| `game.js` | **Memory Matching Game:** A fully functional game to match pairs of images with score tracking. |
+
+### 🔍 Covered Concepts
+- **Query Strings:** Parsing `window.location.search`.
+- **Advanced BOM:** Handling `navigator.userAgent` and managing multiple windows.
+- **Timers:** Deep dive into `setInterval` vs `setTimeout` and `clearInterval`.
+- **DOM Manipulation:** Selecting elements via `querySelectorAll`, changing attributes, and `innerHTML`.
+- **Event Listeners:** Handling `onclick`, `onmouseenter`, and `onmouseleave`.
+
+---
+
+## 🛠 Technologies Used
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Browser Object Model (BOM)
+- Document Object Model (DOM)
+- Regular Expressions (RegExp)
+
 ---
 ## lab7
 ---
