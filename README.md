@@ -47,7 +47,7 @@ CST-LABS/
 │ └── scroll.html
 │
 ├── Lab6/
-│   ├── index1.html       # Typing Window Task
+│   ├── index1.html      
 │   ├── index1.js
 │   ├── index2.html    
 │   ├── welcome.html      
