@@ -70,13 +70,13 @@ CST-LABS/
 │ ├── FormElem.html
 │
 ├── Lab8/
-│ ├── index1.html
-│ ├── index1.js
-│ ├── index2.html
-│ ├── index2.js
-│ ├── calc.js
-│ ├── calc.html
-│ ├── FormElem.html
+│ ├── cookieLib.js
+│ ├── index.js
+│ ├── index.html
+│ ├── register.html
+│ ├── register.js
+│ ├── welcmoe.html
+│ ├── welcome.js
 │
 └── README.md
 ```
