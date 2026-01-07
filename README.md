@@ -53,7 +53,7 @@ CST-LABS/
 │   ├── welcome.html      # Welcome page (Query String Task)
 │   ├── welcome.js
 │   ├── messageWin.html   # Child window for typing task
-│   ├── slideshow.html    # Image Slider Task
+│   ├── slideshow.html   
 │   ├── slideshow.js
 │   ├── loading.html     
 │   ├── loading.js
