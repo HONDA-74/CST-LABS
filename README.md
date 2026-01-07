@@ -57,7 +57,7 @@ CST-LABS/
 │   ├── slideshow.js
 │   ├── loading.html      # Animated Marbles Task
 │   ├── loading.js
-│   ├── game.html         # Memory Game Task
+│   ├── game.html        
 │   └── game.js
 │
 ├── Lab7/
