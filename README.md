@@ -50,7 +50,7 @@ CST-LABS/
 │   ├── index1.html       # Typing Window Task
 │   ├── index1.js
 │   ├── index2.html       # Registration Form
-│   ├── welcome.html      # Welcome page (Query String Task)
+│   ├── welcome.html      
 │   ├── welcome.js
 │   ├── messageWin.html   
 │   ├── slideshow.html   
