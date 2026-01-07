@@ -49,7 +49,7 @@ CST-LABS/
 ├── Lab6/
 │   ├── index1.html       # Typing Window Task
 │   ├── index1.js
-│   ├── index2.html       # Registration Form
+│   ├── index2.html    
 │   ├── welcome.html      
 │   ├── welcome.js
 │   ├── messageWin.html   
