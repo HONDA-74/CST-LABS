@@ -55,7 +55,7 @@ CST-LABS/
 │   ├── messageWin.html   # Child window for typing task
 │   ├── slideshow.html    # Image Slider Task
 │   ├── slideshow.js
-│   ├── loading.html      # Animated Marbles Task
+│   ├── loading.html     
 │   ├── loading.js
 │   ├── game.html        
 │   └── game.js
