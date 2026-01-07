@@ -52,7 +52,7 @@ CST-LABS/
 │   ├── index2.html       # Registration Form
 │   ├── welcome.html      # Welcome page (Query String Task)
 │   ├── welcome.js
-│   ├── messageWin.html   # Child window for typing task
+│   ├── messageWin.html   
 │   ├── slideshow.html   
 │   ├── slideshow.js
 │   ├── loading.html     
