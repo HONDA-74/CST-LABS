@@ -198,7 +198,27 @@ This lab covers advanced **DOM Manipulation, BOM interaction, and complex Event 
 - Regular Expressions (RegExp)
 
 ---
-## lab7
+## 📓 Lab 7 – Advanced Events & DOM Logic
+
+**Location:** `Lab7/`
+
+This lab delves into **Event Object properties, Form validation events, and building logic-heavy applications** like a calculator without using `eval()`.
+
+### 🧪 Tasks
+
+| File | Description |
+|----|------------|
+| `index1.js` | **Context Menu Restriction:** Disables the right-click menu on the page using `preventDefault()`. |
+| `index2.js` | **Form Submission:** Intercepts the submit event to ask for user confirmation before sending data. |
+| `calc.js` | **Calculator Logic:** Parses mathematical strings manually (handling `*` `/` precedence) using Arrays and Regex split. |
+| `FormElem.html` | **Form Manipulation:** Handles input masking, copying text on change, and iterating through `select` options. |
+
+### 🔍 Covered Concepts
+- **Event Object:** `e.preventDefault()`, `e.target`, `e.key`.
+- **Mouse & Keyboard Events:** `contextmenu` (Right Click), `keydown`.
+- **Form Events:** `onsubmit`, `onchange`, `onblur`, `onfocus`.
+- **String Parsing:** Using `split(/regex/)` and `splice` to separate numbers and operators.
+- **DOM Collections:** Iterating through `select.options` to find selected values.
 ---
 ## ▶️ How to Run the Labs
 
