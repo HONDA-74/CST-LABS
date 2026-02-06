@@ -1,0 +1,25 @@
+body {
+  background-color: lightcyan;
+}
+#Top,
+.Underline {
+  text-decoration: underline;
+}
+.headers {
+  text-align: center;
+}
+.Images {
+  text-align: center;
+}
+#Font {
+  font-family: sans-serif;
+}
+#Size {
+  font-size: 18px;
+}
+#Color {
+  color: red;
+}
+#next {
+  text-align: right;
+}

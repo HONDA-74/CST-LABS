@@ -1,0 +1,33 @@
+body {
+  background-color: lightcyan;
+}
+h1,
+h3 {
+  text-align: center;
+  text-decoration: underline;
+}
+table,
+td,
+th {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+input,
+label {
+  padding: 10px;
+}
+#bio {
+  resize: none;
+}
+#buttons {
+  text-align: center;
+}
+.Login {
+  border: solid red;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
